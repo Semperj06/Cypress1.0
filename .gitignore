@@ -1,0 +1,8 @@
+node_modules  
+logs
+*.log
+cypress/screenshots
+cypress/videos
+cypress/logs
+messages.json
+cypress/fixtures/GetResetLink.js
