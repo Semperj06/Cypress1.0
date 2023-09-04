@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "username": "w",
+      "hrefReset_Password": "https://legion.virtualmedclaims.com/profile/reset-password-request/4436878"
+    },
+    {
+      "link": "https://accounts.google.com",
+      "email": "sdytestuser@gmail.com",
+      "password": "Welcome%1234!"
+    },
+    {
+      "username": "USER_2",
+      "password": "Welcome123!"
+    },
+    {
+      "email1": "old1@example.com",
+      "email2": "old2@example.com",
+      "email3": "new2@example.com"
+    }
+  ]
+}
